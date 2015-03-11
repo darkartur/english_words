@@ -1,0 +1,20 @@
+{
+  "name": "english_words",
+  "version": "1.0.0",
+  "description": "english words db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "latest",
+    "fs": "latest",
+    "mysql": "latest",
+    "underscore": "latest",
+    "knex": "latest",
+    "promise": "latest",
+    "clj-fuzzy": "0.1.8"
+  }
+}
