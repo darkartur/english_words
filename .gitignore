@@ -1,6 +1,7 @@
 #base ignores
 .idea/
 node_modules/
+typings/
 
 #ignore all compiled JavaScript and source maps
 **/*.js
