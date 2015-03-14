@@ -20,6 +20,7 @@
     "clj-fuzzy": "0.1.8",
     "colors": "latest",
     "knex": "latest",
+    "mocha": "^2.2.1",
     "mysql": "latest",
     "promise": "latest",
     "typescript": "latest",

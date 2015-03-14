@@ -5,5 +5,8 @@
   "path": "typings",
   "bundle": "typings/tsd.d.ts",
   "installed": {
+    "mocha/mocha.d.ts": {
+      "commit": "40eea5dc8f672e511abed203b2bb087026beec60"
+    }
   }
 }
