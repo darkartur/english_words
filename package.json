@@ -6,15 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darkartur/english_words.git"
+  },
+  "author": "Arthur Udalov",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkartur/english_words/issues"
+  },
+  "homepage": "https://github.com/darkartur/english_words",
   "dependencies": {
+    "clj-fuzzy": "0.1.8",
     "colors": "latest",
-    "fs": "latest",
-    "mysql": "latest",
-    "underscore": "latest",
     "knex": "latest",
+    "mysql": "latest",
     "promise": "latest",
-    "clj-fuzzy": "0.1.8"
+    "typescript": "latest",
+    "underscore": "latest"
   }
 }
