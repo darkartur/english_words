@@ -1,9 +1,12 @@
 /// <reference path="../../typings/tsd.d.ts" />
+require('source-map-support').install();
 
 import _ = require("underscore");
-
 import assert = require("assert");
 import Sentence = require("./sentence");
+
+
+
 
 describe('Sentence', () => {
     describe("#parse()", () => {

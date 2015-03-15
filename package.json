@@ -23,6 +23,7 @@
     "mocha": "^2.2.1",
     "mysql": "latest",
     "promise": "latest",
+    "source-map-support": "^0.2.10",
     "typescript": "latest",
     "underscore": "latest"
   }
